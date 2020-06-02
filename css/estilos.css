@@ -1,0 +1,30 @@
+/* reglas
+selectores
+declaraciones
+propiedades
+valores */
+
+/* regla */
+
+/* selector de ETIQUETA "header"-->*/
+/* declaración "background"--->*/
+/* valores "red"*/
+
+
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Fjalla', sans-serif;
+}
+/*selector de etiqueta header - section
+selector descendente
+body header div -> nav -> ol -> li -> a */
+
+/* El selector de CLASE (class) se le pone un punto antes del nombre ej = .portafolio  */
+
+/* .link */
+
+/* selector de ID */
+/*#portafolio */
